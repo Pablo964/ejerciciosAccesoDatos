@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Amigos>
+    <Amigo>
+        <Nombre>Fran</Nombre>
+        <Edad>30</Edad>
+        <Telefono>666777666</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Arturo</Nombre>
+        <Edad>33</Edad>
+        <Telefono>666777667</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Antonio</Nombre>
+        <Edad>30</Edad>
+        <Telefono>666777668</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Fernando</Nombre>
+        <Edad>33</Edad>
+        <Telefono>666777669</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Dani</Nombre>
+        <Edad>31</Edad>
+        <Telefono>666777669</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Arturo</Nombre>
+        <Edad>39</Edad>
+        <Telefono>666777668</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Pablo</Nombre>
+        <Edad>33</Edad>
+        <Telefono>666777664</Telefono>
+    </Amigo>
+	<Amigo>
+        <Nombre>Nacho</Nombre>
+        <Edad>31</Edad>
+        <Telefono>666777662</Telefono>
+    </Amigo>
+</Amigos>
