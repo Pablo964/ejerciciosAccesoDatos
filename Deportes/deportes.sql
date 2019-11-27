@@ -29,12 +29,14 @@ ALTER TABLE public.deportista
     OWNER to postgres;
 	
 INSERT INTO deporte 
+(nombre)
 VALUES
-(1, 'Fútbol'), (2, 'Baloncesto'), (3, 'Arco'), (4, 'Jabalina');
+('Fútbol'), ('Baloncesto'), ('Arco'), ('Jabalina');
 
-INSERT INTO deportista 
+INSERT INTO deportista
+(nombre,codDeporte) 
 VALUES
-(1, 'Manuel', null), (2, 'Cristian', 1), (3, 'Jose', 2), (4, 'Julia',3), (5, 'Adrian',3);
+('Manuel', null), ('Cristian', 1), ('Jose', 2), ('Julia',3), ('Adrian',3);
 
 CREATE TYPE tipo_deportistas as (codDeportista integer, nomDeportista character varying, nomDeporte character varying);
 

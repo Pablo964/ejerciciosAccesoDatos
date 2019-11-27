@@ -1,0 +1,46 @@
+{
+  "Amigos": {
+    "Amigo": [
+      {
+        "Nombre": "Fran",
+        "Edad": "30",
+        "Telefono": "666777666"
+      },
+      {
+        "Nombre": "Antonio",
+        "Edad": "30",
+        "Telefono": "666777668"
+      },
+      {
+        "Nombre": "Fernando",
+        "Edad": "33",
+        "Telefono": "666777669"
+      },
+      {
+        "Nombre": "Dani",
+        "Edad": "31",
+        "Telefono": "666777669"
+      },
+      {
+        "Nombre": "Arturo",
+        "Edad": "39",
+        "Telefono": "666777668"
+      },
+      {
+        "Edad": "33",
+        "Nombre": "Arturo",
+        "Telefono": "666776667"
+      },
+      {
+        "Nombre": "Pablo",
+        "Edad": "33",
+        "Telefono": "666777663"
+      },
+      {
+        "Nombre": "Nacho",
+        "Edad": "31",
+        "Telefono": "666777662"
+      }
+    ]
+  }
+}

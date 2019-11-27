@@ -46,9 +46,18 @@ public class DeportesMain
 				 + "(?, ?)");
 		 pStmt.setString(1, nombreDeportista);
 		 pStmt.setInt(2, codDeporte);
-		 pStmt.executeUpdate();
-		
+		 try
+		 {
+			 pStmt.executeUpdate();
+		 }
+		 catch(Exception e)
+		 {
+			 System.out.println("No se ha podido insertar el deportista");
+			 return;
+		 }
 	}
+	
+	
 	
 	private static void buscarPorNombreDeDeportista() throws SQLException 
 	{
